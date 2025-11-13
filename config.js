@@ -26,6 +26,6 @@ const SPREADSHEET_ID = '1MjSAQUet51WEfdYbToNn7rJ2faK8t2XQsVlFMX9KSQU';
 
 // CHAVE DA API DO GOOGLE
 // Vou te ensinar a criar depois
-const API_KEY = 'AKfycbw4NyNe54IFePp5b2CCCJU5ucbr6umdLciRXc5TjET5aheDJ3ZpCZ704zbFbwBQHy7B';
+const API_KEY = 'AIzaSyB2SvzIv9lfSfZ3pX8ukjdFDAPL_KOjsCQ';
 
 // ========================================================
