@@ -381,9 +381,6 @@ async function handleSubmit() {
             }, 5000);
         }, 3000);
         
-        // Limpar cache
-        st.cache_data.clear();
-        
     } catch (error) {
         progressContainer.style.display = 'none';
         submitContainer.style.display = 'block';
