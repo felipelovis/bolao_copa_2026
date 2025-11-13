@@ -52,7 +52,7 @@ function calcularTempoRestante(dataLimite) {
     const diferenca = dataLimite - agora;
     
     if (diferenca <= 0) {
-        return { encerrado: true, texto: 'Encerrado' };
+        return { encerrado: true, texto: 'Indisponível' };
     }
     
     const dias = Math.floor(diferenca / (1000 * 60 * 60 * 24));
