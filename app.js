@@ -219,7 +219,7 @@ function renderizarJogos() {
         `;
         
         if (!faseAberta) {
-            html += `<div class="fase-bloqueada">⚠️ Palpites desta fase encerrados</div>`;
+            html += `<div class="fase-bloqueada">⚠️ Palpites desta fase indisponível</div>`;
         }
         
         if (fase === 'Grupo') {
